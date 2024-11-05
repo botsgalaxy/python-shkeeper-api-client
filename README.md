@@ -100,9 +100,7 @@ If you encounter any issues, feel free to open an issue on the GitHub repository
 
 Author Information
 ------------------
-- **Author**: @BotsGalaxy
-- **Telegram**: @primeakash
+- **Author**: [BotsGalaxy](https://github.com/botsgalaxy)
+- **Telegram**: [primeakash](https://t.me/primeakash)
 
-Version
--------
-0.1
+
